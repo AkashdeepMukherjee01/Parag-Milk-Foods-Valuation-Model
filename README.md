@@ -24,3 +24,9 @@ The analysis triangulates the company's intrinsic and relative value using three
 
 ## 📂 Files Included
 * `Parag Milk Foods 3 statement Model + DCF.xlsx`: The master working model.
+
+## Disclaimer
+
+This project was created for educational and portfolio purposes.  
+The analysis should not be interpreted as investment advice.
+
