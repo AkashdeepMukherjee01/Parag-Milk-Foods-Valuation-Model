@@ -30,3 +30,7 @@ The analysis triangulates the company's intrinsic and relative value using three
 This project was created for educational and portfolio purposes.  
 The analysis should not be interpreted as investment advice.
 
+## Author
+
+Akashdeep Mukherjee  
+Finance Student | M.Com Finance, Narsee Monjee College, Mumbai
